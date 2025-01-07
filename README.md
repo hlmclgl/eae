@@ -11,6 +11,7 @@
 
 https://github.com/user-attachments/assets/e6197aba-f38d-43dd-8ed9-cb027c575fa6
 
+- [Youtube, 1080p video link](https://www.youtube.com/watch?v=_EndYn3waxI).
 
 
 ## About Laravel
